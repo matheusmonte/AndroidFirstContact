@@ -30,6 +30,7 @@
         android:background="@drawable/botao"
         android:visibility="invisible"
         android:layout_above="@+id/button2"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"/>
 
 </RelativeLayout>
