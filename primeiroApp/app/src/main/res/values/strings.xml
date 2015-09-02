@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">primeiroApp</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_segunda_tela_do_meu_app">SegundaTelaDoMeuApp</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
